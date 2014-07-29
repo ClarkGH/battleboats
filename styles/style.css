@@ -5,11 +5,11 @@
 	margin: 0 auto;
 }
 
-table{
+.game_grid{
 	width: 100%;
 	height: 100%;
 	border-collapse: collapse;
 }
-td {
-	border: 1px solid red;
+.cell {
+	border: 1px solid black;
 }
